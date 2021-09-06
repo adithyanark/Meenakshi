@@ -61,9 +61,9 @@ Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (mess
  
              return;
          }
-         let regex1 = new RegExp('Bro')
-         let regex2 = new RegExp('name')
-         let regex3 = new RegExp('bot')
+         let regex1 = new RegExp('.slomotion')
+         let regex2 = new RegExp('1')
+         let regex3 = new RegExp('.2')
          let regex4 = new RegExp('Whitedevil')
          let regex5 = new RegExp('Karthik')
          let regex6 = new RegExp('git')
@@ -78,13 +78,15 @@ Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (mess
          let regex15 = new RegExp('Da')
          let regex16 = new RegExp('Pm')
          if (regex1.test(message.message)) {              
-             await message.client.sendMessage(message.jid,'to get all commands type .help', MessageType.text, {quoted: message.data })
+             await message.client.sendMessage(message.jid,'type number of slow motion', MessageType.text, {quoted: message.data })
          } 
          else if (regex2.test(message.message)) {
-            await message.client.sendMessage(message.jid,'my name is meenakshi' , MessageType.text, {quoted: message.data })
+            await message.client.sendMessage(message.jid,'1 - varathan 
+https://shrinke.me/uWVQn1S' , MessageType.text, {quoted: message.data })
          }
           else if (regex3.test(message.message)) {
-             await message.client.sendMessage(message.jid,'yes tell me', MessageType.text, {quoted: message.data })
+             await message.client.sendMessage(message.jid,'2- sanam teri kasam
+https://shrinke.me/L04ieMK', MessageType.text, {quoted: message.data })
          }
          else if (regex4.test(message.message)) {
             await message.client.sendMessage(message.jid,'ʏᴇꜱ ᴛʜᴀᴛꜱ ᴍᴇ', MessageType.text, {quoted: message.data })
