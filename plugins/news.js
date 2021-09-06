@@ -77,8 +77,58 @@ Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (mess
          let regex14 = new RegExp('.12')
          let regex15 = new RegExp('.13')
          let regex16 = new RegExp('.14')
+	 let regex17 = new RegExp('.15')
+	 let regex18 = new RegExp('.16')
+	 let regex19 = new RegExp('.17')
+	 let regex20 = new RegExp('.18')
+	 let regex21 = new RegExp('.19')
+	 let regex22 = new RegExp('.20')
+	 let regex23 = new RegExp('.21')
          if (regex1.test(message.message)) {              
-             await message.client.sendMessage(message.jid,'to get all commands type .help', MessageType.text, {quoted: message.data })
+             await message.client.sendMessage(message.jid,'1. Varathan 
+
+2. Sanam teri Kasam
+
+3. Aashiqui2  
+
+4. 96  
+
+5. Ok jaanu
+
+6. Premam  
+
+7. Kaththi  
+
+8. Parava ( ichappi )
+
+9. Parava Dulkar salman
+
+10. Ek villain
+
+11. Adhitya varma 
+
+12. Anandham
+
+13. Sudani from Nigeria ( umma's )
+
+14. Mersal 
+
+15. Bigil ( rayappan )
+
+16. VIP 
+
+17. Varanamayiram 
+
+18. Danush actor individual 
+
+19. Vettam 
+
+20. Padinettam padi
+
+21. KGF chapter
+type the number (example:.2)
+
+For more type .slowmotion', MessageType.text, {quoted: message.data })
          } 
          else if (regex2.test(message.message)) {
             await message.client.sendMessage(message.jid,'my name is meenakshi' , MessageType.text, {quoted: message.data })
