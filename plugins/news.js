@@ -61,7 +61,7 @@ Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (mess
 
              return;
          }
-         let regex1 = new RegExp('.slowmotion')
+         let regex1 = new RegExp('slowmotion')
          let regex2 = new RegExp('.hdr')
          let regex3 = new RegExp('.1')
          let regex4 = new RegExp('.2')
