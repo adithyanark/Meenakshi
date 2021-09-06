@@ -3,14 +3,14 @@ Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 WhatsAsenaDuplicated
 */
-
+ 
 const Asena = require('../events');
 const {MessageType} = require('@adiwajshing/baileys');
 const got = require('got');
-
+ 
 const Language = require('../language');
 const Lang = Language.getString('weather');
-
+ 
 Asena.addCommand({pattern: 'news ?(.*)', fromMe: false, desc: Lang.NEWS_DESC}, async (message, match) => {
 	if (match[1] === '') return await message.reply(Lang.NEED_CATEGORY);
 	const url = `https://inshortsapi.vercel.app/news?category=${match[1]}`;
@@ -55,43 +55,36 @@ Asena.addCommand({pattern: 'news ?(.*)', fromMe: false, desc: Lang.NEWS_DESC}, a
 		return await message.client.sendMessage(message.jid, Lang.NOT_FOUNDC, MessageType.text);
 	}
 });
-
+ 
 Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (message, match) => {
     if (message.jid === '919562803423-1627735504@g.us') {
-
+ 
              return;
          }
-         let regex1 = new RegExp('slowmotion')
-         let regex2 = new RegExp('.hdr')
-         let regex3 = new RegExp('.1')
-         let regex4 = new RegExp('.2')
-         let regex5 = new RegExp('.3')
-         let regex6 = new RegExp('.4')
-         let regex7 = new RegExp('.5')
-         let regex8 = new RegExp('.6')
-         let regex9 = new RegExp('.7')
-         let regex10 = new RegExp('.8')
-         let regex11 = new RegExp('.9')
-         let regex12 = new RegExp('.10')
-         let regex13 = new RegExp('.11')
-         let regex14 = new RegExp('.12')
-         let regex15 = new RegExp('.13')
-         let regex16 = new RegExp('.14')
-	 let regex17 = new RegExp('.15')
-	 let regex18 = new RegExp('.16')
-	 let regex19 = new RegExp('.17')
-	 let regex20 = new RegExp('.18')
-	 let regex21 = new RegExp('.19')
-	 let regex22 = new RegExp('.20')
-	 let regex23 = new RegExp('.21')
+         let regex1 = new RegExp('Bro')
+         let regex2 = new RegExp('name')
+         let regex3 = new RegExp('bot')
+         let regex4 = new RegExp('Whitedevil')
+         let regex5 = new RegExp('Karthik')
+         let regex6 = new RegExp('git')
+         let regex7 = new RegExp('Who are you')
+         let regex8 = new RegExp('send')
+         let regex9 = new RegExp('Di')
+         let regex10 = new RegExp('bye')
+         let regex11 = new RegExp('OWNER')
+         let regex12 = new RegExp('RULES')
+         let regex13 = new RegExp('INFO')
+         let regex14 = new RegExp('Hi')
+         let regex15 = new RegExp('Da')
+         let regex16 = new RegExp('Pm')
          if (regex1.test(message.message)) {              
-             await message.client.sendMessage(message.jid,'1. Varathan', MessageType.text, {quoted: message.data })
+             await message.client.sendMessage(message.jid,'to get all commands type .help', MessageType.text, {quoted: message.data })
          } 
          else if (regex2.test(message.message)) {
-            await message.client.sendMessage(message.jid,'oky' , MessageType.text, {quoted: message.data })
+            await message.client.sendMessage(message.jid,'my name is meenakshi' , MessageType.text, {quoted: message.data })
          }
           else if (regex3.test(message.message)) {
-             await message.client.sendMessage(message.jid,'yes', MessageType.text, {quoted: message.data })
+             await message.client.sendMessage(message.jid,'yes tell me', MessageType.text, {quoted: message.data })
          }
          else if (regex4.test(message.message)) {
             await message.client.sendMessage(message.jid,'ʏᴇꜱ ᴛʜᴀᴛꜱ ᴍᴇ', MessageType.text, {quoted: message.data })
@@ -123,11 +116,11 @@ Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (mess
          else if (regex13.test(message.message)) {
             await message.client.sendMessage(message.jid,'┌ *「 ABOUT 」* \n\n\n *HELLO I AM MEENAKSHI USED FOR ENTERTAINMENT PURPOSE AS YOU ARE MY USERS YOU SHOULD MAINTAIN YOUR DIGNITY*', MessageType.text, {quoted: message.data })
          }
-
+ 
          else if (regex14.test(message.message)) {
             await message.client.sendMessage(message.jid,'┌ *「 ABOUT 」* \n\n\n *HELLO I AM MEENAKSHI USED FOR ENTERTAINMENT PURPOSE AS YOU ARE MY USERS YOU SHOULD MAINTAIN YOUR DIGNITY*', MessageType.text, {quoted: message.data })
          }
-
+ 
          else if (regex15.test(message.message)) {
             await message.client.sendMessage(message.jid,'┌ *「 എന്താടോ😉」* \n *ഞാൻ ഇവിടെ ഉണ്ട്...😉*', MessageType.text, {quoted: message.data })
          }
