@@ -131,10 +131,10 @@ type the number (example:.2)
 For more type .slowmotion', MessageType.text, {quoted: message.data })
          } 
          else if (regex2.test(message.message)) {
-            await message.client.sendMessage(message.jid,'my name is meenakshi' , MessageType.text, {quoted: message.data })
+            await message.client.sendMessage(message.jid,'oky' , MessageType.text, {quoted: message.data })
          }
           else if (regex3.test(message.message)) {
-             await message.client.sendMessage(message.jid,'yes tell me', MessageType.text, {quoted: message.data })
+             await message.client.sendMessage(message.jid,'yes', MessageType.text, {quoted: message.data })
          }
          else if (regex4.test(message.message)) {
             await message.client.sendMessage(message.jid,'ʏᴇꜱ ᴛʜᴀᴛꜱ ᴍᴇ', MessageType.text, {quoted: message.data })
