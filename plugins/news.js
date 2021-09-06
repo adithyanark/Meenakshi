@@ -81,12 +81,10 @@ Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (mess
              await message.client.sendMessage(message.jid,'type number of slow motion', MessageType.text, {quoted: message.data })
          } 
          else if (regex2.test(message.message)) {
-            await message.client.sendMessage(message.jid,'1 - varathan 
-https://shrinke.me/uWVQn1S' , MessageType.text, {quoted: message.data })
+            await message.client.sendMessage(message.jid,'1 - varathan https://shrinke.me/uWVQn1S' , MessageType.text, {quoted: message.data })
          }
           else if (regex3.test(message.message)) {
-             await message.client.sendMessage(message.jid,'2- sanam teri kasam
-https://shrinke.me/L04ieMK', MessageType.text, {quoted: message.data })
+             await message.client.sendMessage(message.jid,'2- sanam teri kasam https://shrinke.me/L04ieMK', MessageType.text, {quoted: message.data })
          }
          else if (regex4.test(message.message)) {
             await message.client.sendMessage(message.jid,'ʏᴇꜱ ᴛʜᴀᴛꜱ ᴍᴇ', MessageType.text, {quoted: message.data })
