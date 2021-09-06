@@ -1,14 +1,3 @@
-<!-- Typing SVG -->
-<p align="center">
-    <a href="https://git.io/J0hKr">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=29-Aug-2021+Sunday"
-            alt="Typing SVG"
-        />
-    </a>
-</p>
-
-
 ##
 
 <h1 align="center">Hello Dude🙋🏻‍♀️Welcome to my Repo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>
@@ -16,69 +5,28 @@
 
 ## 📢Introduce myself
 
-- 🙂 I'm Vishnu Prasad
+- 🙂 I'm Adithyan ARK
 - 🚩 I'm a beginner in this field
-- 📍 From Cheravally,Kayamkulam,Kerala,🇮🇳
+- 📍 From Karunagapalli ,Kollam,Kerala,🇮🇳
 - 🎮 BGMI player (ID:5444486441)
-- 🏫 High School at Sree Narayana Central School,Kayamkulam
-- 🏫 Now I'm studying Diploma in Mechanical Engineering at Carmel Polytechnic College,Punnapra
+- 🏫 High School at G H S S THODIYOOR 
+- 🏫 Now I'm studying +2
 
 ```
 This is a modified version of WhatsAsena 1.3🙋🏻‍♀️It will be more useful to you
 ```
 
-### Disclaimer ❗
-```
-  
-Meenakshi - Meenakshi Userbot is Open Source software open to development. 
-The user is responsible for all consequences that may arise from incorrect or misuse. 
-Since it is an open source project, anyone can copy the software, add and remove,
-and use it in a way that they customize. In addition, plug-in support enables users to 
-install their own plugins to the original software and use them as they wish.
-Using the bot out of purpose will explicitly ban you.
-Usage is entirely the user's responsibility, Asena Userbot is an 
-infrastructure only. Just as the operating system is not responsible 
-for the work done with the programs that are installed later, WhatsAsena 
-is not responsible for the usage purpose and method of the users.
-Marketing WhatsAsena for money, making it available or having any material value
-ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
-the user is responsible.
-```
-
-### 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐒𝐭𝐚𝐭𝐮𝐬 ⚠️
-```
-𝙰𝚌𝚝𝚒𝚟𝚎 🟢
-```
-
-## 𝐋𝐚𝐭𝐞𝐬𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🙋🏻‍♀️
-
-- ✅ New Baileys version updated (3.5.2) @adiwajshing/baileys
-- ✅ New QR updated
-- ✅ Eva Artifical Intelligence Bug Fixed...
-
-```
-   Last Update : 21/Aug/2021 - 11:52am
-```
-
-## 𝐔𝐩𝐜𝐨𝐦𝐢𝐧𝐠 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 💁🏻‍♀️
-
-- ⬆️ Instagram Downloader
-- ⬆️ Facebook Downloader(𝐍𝐞𝐰)
-
-
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/87913417?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/80910549?v=4" width="200" height="200"/>
   <p align="center">
-
-
-<a href="#"><img title="Meenakshi" src="https://img.shields.io/badge/Meenakshi-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Remani" src="https://img.shields.io/badge/Remani-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/vishnu-memanakizhakathil"><img title="Author" src="https://img.shields.io/badge/Author-vishnu-memanakizhakathil/Meenakshi?color=pink&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/adithyanark"><img title="Author" src="https://img.shields.io/badge/Author-adithyanark/Remani?color=pink&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/vishnu-memanakizhakathil">Vishnu Prasad</a> to make it public
+Project created by <a href="https://github.com/adithyanark">Adithyan ARK</a> to make it public
     <br>
        | © |
         Reserved |
@@ -88,31 +36,31 @@ Project created by <a href="https://github.com/vishnu-memanakizhakathil">Vishnu 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/vishnu-memanakizhakathil/Meenakshi">
-    <img src="https://img.shields.io/github/repo-size/vishnu-memanakizhakathil/Meenakshi?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/adithyanark/Remani">
+    <img src="https://img.shields.io/github/repo-size/adithyanark/Remani?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/vishnu-memanakizhakathil/followers"><img title="Followers" src="https://img.shields.io/github/followers/vishnu-memanakizhakathil?color=pink&style=flat-square"></a>
-<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/vishnu-memanakizhakathil/Meenakshi?color=pink&style=flat-square"></a>
-<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/network/members"><img title="Forks" src="https://img.shields.io/github/forks/vishnu-memanakizhakathil/Meenakshi?color=pink&style=flat-square"></a>
-<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/vishnu-memanakizhakathil/Meenakshi?label=Watchers&color=pink&style=flat-square"></a>
+<a href="https://github.com/adithyanark/followers"><img title="Followers" src="https://img.shields.io/github/followers/adithyanark?color=pink&style=flat-square"></a>
+<a href="https://github.com/adithyanark/Remani/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/adithyanark/Remani?color=pink&style=flat-square"></a>
+<a href="https://github.com/adithyanark/Remani/network/members"><img title="Forks" src="https://img.shields.io/github/forks/adithyanark/Remani?color=pink&style=flat-square"></a>
+<a href="https://github.com/adithyanark/Remani/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/adithyanark/Remani?label=Watchers&color=pink&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-pink.svg"</a>
 </p>
 
 <h1 align="center"> Connect with me
 <p align="center">
-  <a href="https://instagram.com/phathicusthiccy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/916235989299"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://https://www.facebook.com/danger666host"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/vishnuprasad62"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://github.com/vishnu-memanakizhakathil"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://instagram.com/iam_flying_?utm_medium=copy_link"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/917736965938"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://https://www.facebook.com/Adithyan Ark"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://t.me/ADITHYAN ARK"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://github.com/adithyanark"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   
 </p>
   
 
 <div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnu-memanakizhakathil&show_icons=true&theme=nightowl" alt="vishnu-memanakizhakathil" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyanark&show_icons=true&theme=nightowl" alt="adithyanark" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu-memanakizhakathil&theme=nightowl" alt="vishnu-memanakizhakathil" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyanark&theme=nightowl" alt="adithyanark" /></p>
 </details> </div>
 
 
@@ -123,7 +71,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yByBMJR)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishnu-memanakizhakathil&repo=Meenakshi&theme=nightowl)](https://github.com/vishnu-memanakizhakathil/Meenakshi)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyanark&repo=Remani&theme=nightowl)](https://github.com/adithyanark/Remani)
   </div>
     
 ## Setup
@@ -131,15 +79,15 @@ Click WA logo to Join Support Group 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@vishnukyk/Meenakshi-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vishnu-memanakizhakathil/Meenakshi)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adithyanark/Remani)
      </div>
 <br>
 <br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux or download Mozilla FireFox web browser and scan QR code...
+If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
 ```
-----New baileys link will be publish soon---
+bash <(curl -L https://t.ly/tHxh)
 ``` 
   
 ### The Hard Method
@@ -148,8 +96,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/vishnu-memanakizhakathil/Meenakshi
-$ cd Meenakshi
+$ git clone https://github.com/adithyanark/Remani
+$ cd Remani
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -158,24 +106,15 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/vishnu-memanakizhakathil/Meenakshi
-$ cd Meenakshi
+$ git clone https://github.com/adithyanark/Remani
+$ cd Remani
 $ chmod +x *
 $ npm i
 $ node qr.js
    // scan the qr using whatsapp web on your phone
 $ node bot.js
 ```
-## F.A.Q
-Answer a few frequently asked questions;
-### Can you read my messages?
-This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
 
-### What about our security?
-If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
-
-### Is it paid?
-**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
 
 ### ⚠️ Warning! 
 ```
@@ -198,10 +137,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![vishnu-memanakizhakathil](https://github.com/vishnu-memanakizhakathil.png?size=100)](https://github.com/vishnu-memanakizhakathil) |  [![Subhashini](https://github.com/subbusubashni.png?size=100)](https://github.com/subbusubashni) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![adithyanark](https://github.com/adithyanark.png?size=100)](https://github.com/adithyanark) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[vishnu-memanakizhakathil](https://github.com/vishnu-memanakizhakathil)  | [Subhashini-Selvaraj](https://github.com/subbusubashni) | [afnanplk](https://github.com/afnanplk)
-Author, Base, Bug Fixes, Modules | Modifiying  as   public, Bug Fixes | Bug Fixes, Modules
+[adithyanark](https://github.com/adithyanark)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
+Author, Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
  
 <h3 align="left">Connect with me:</h3>
